@@ -1,0 +1,2 @@
+# FFHQ-FLAME-Bridge-High-Fidelity-3D-Face-Reconstruction
+This project provides a novel bridge model that generates 3D FLAME 2023 model parameters from a single 2D face image (FFHQ). Unlike generative approaches like RodinHD that create novel avatars, our work focuses on accurate and efficient reconstruction of a 3D face mesh, making it ideal for applications in facial analysis, animation, and biometrics.
